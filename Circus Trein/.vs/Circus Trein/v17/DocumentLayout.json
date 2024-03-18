@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\habib\\source\\repos\\Circus Trein\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{371FFEAB-2067-428C-949E-B9418C80A58C}|Circus Trein.Tests\\Circus Trein.Tests.csproj|c:\\users\\habib\\source\\repos\\circus trein\\circus trein.tests\\wagontests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{371FFEAB-2067-428C-949E-B9418C80A58C}|Circus Trein.Tests\\Circus Trein.Tests.csproj|solutionrelative:circus trein.tests\\wagontests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8B0B8C0-EBFD-4D5A-938C-2B8D18D2898C}|Circus Trein\\Circus Trein.csproj|c:\\users\\habib\\source\\repos\\circus trein\\circus trein\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8B0B8C0-EBFD-4D5A-938C-2B8D18D2898C}|Circus Trein\\Circus Trein.csproj|solutionrelative:circus trein\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8B0B8C0-EBFD-4D5A-938C-2B8D18D2898C}|Circus Trein\\Circus Trein.csproj|c:\\users\\habib\\source\\repos\\circus trein\\circus trein\\distributor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8B0B8C0-EBFD-4D5A-938C-2B8D18D2898C}|Circus Trein\\Circus Trein.csproj|solutionrelative:circus trein\\distributor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8B0B8C0-EBFD-4D5A-938C-2B8D18D2898C}|Circus Trein\\Circus Trein.csproj|c:\\users\\habib\\source\\repos\\circus trein\\circus trein\\wagon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8B0B8C0-EBFD-4D5A-938C-2B8D18D2898C}|Circus Trein\\Circus Trein.csproj|solutionrelative:circus trein\\wagon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8B0B8C0-EBFD-4D5A-938C-2B8D18D2898C}|Circus Trein\\Circus Trein.csproj|c:\\users\\habib\\source\\repos\\circus trein\\circus trein\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8B0B8C0-EBFD-4D5A-938C-2B8D18D2898C}|Circus Trein\\Circus Trein.csproj|solutionrelative:circus trein\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8B0B8C0-EBFD-4D5A-938C-2B8D18D2898C}|Circus Trein\\Circus Trein.csproj|c:\\users\\habib\\source\\repos\\circus trein\\circus trein\\inputparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8B0B8C0-EBFD-4D5A-938C-2B8D18D2898C}|Circus Trein\\Circus Trein.csproj|solutionrelative:circus trein\\inputparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WagonTests.cs",
+              "DocumentMoniker": "C:\\Users\\habib\\source\\repos\\Circus Trein\\Circus Trein.Tests\\WagonTests.cs",
+              "RelativeDocumentMoniker": "Circus Trein.Tests\\WagonTests.cs",
+              "ToolTip": "C:\\Users\\habib\\source\\repos\\Circus Trein\\Circus Trein.Tests\\WagonTests.cs",
+              "RelativeToolTip": "Circus Trein.Tests\\WagonTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAKAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T16:02:41.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InputParser.cs",
+              "DocumentMoniker": "C:\\Users\\habib\\source\\repos\\Circus Trein\\Circus Trein\\InputParser.cs",
+              "RelativeDocumentMoniker": "Circus Trein\\InputParser.cs",
+              "ToolTip": "C:\\Users\\habib\\source\\repos\\Circus Trein\\Circus Trein\\InputParser.cs",
+              "RelativeToolTip": "Circus Trein\\InputParser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T15:50:24.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Distributor.cs",
+              "DocumentMoniker": "C:\\Users\\habib\\source\\repos\\Circus Trein\\Circus Trein\\Distributor.cs",
+              "RelativeDocumentMoniker": "Circus Trein\\Distributor.cs",
+              "ToolTip": "C:\\Users\\habib\\source\\repos\\Circus Trein\\Circus Trein\\Distributor.cs",
+              "RelativeToolTip": "Circus Trein\\Distributor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T15:46:59.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Wagon.cs",
+              "DocumentMoniker": "C:\\Users\\habib\\source\\repos\\Circus Trein\\Circus Trein\\Wagon.cs",
+              "RelativeDocumentMoniker": "Circus Trein\\Wagon.cs",
+              "ToolTip": "C:\\Users\\habib\\source\\repos\\Circus Trein\\Circus Trein\\Wagon.cs",
+              "RelativeToolTip": "Circus Trein\\Wagon.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T15:46:43.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\habib\\source\\repos\\Circus Trein\\Circus Trein\\Animal.cs",
+              "RelativeDocumentMoniker": "Circus Trein\\Animal.cs",
+              "ToolTip": "C:\\Users\\habib\\source\\repos\\Circus Trein\\Circus Trein\\Animal.cs",
+              "RelativeToolTip": "Circus Trein\\Animal.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAiwCoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T15:46:16.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\habib\\source\\repos\\Circus Trein\\Circus Trein\\Program.cs",
+              "RelativeDocumentMoniker": "Circus Trein\\Program.cs",
+              "ToolTip": "C:\\Users\\habib\\source\\repos\\Circus Trein\\Circus Trein\\Program.cs",
+              "RelativeToolTip": "Circus Trein\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T15:46:01.186Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
