@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\habib\\source\\repos\\Circus Trein\\Circus Trein\\Circus Trein.csproj": {}
+    "C:\\Users\\habib\\Documents\\GitHub\\Individueel\\Circus Trein\\Circus Trein\\Circus Trein.csproj": {}
   },
   "projects": {
-    "C:\\Users\\habib\\source\\repos\\Circus Trein\\Circus Trein\\Circus Trein.csproj": {
+    "C:\\Users\\habib\\Documents\\GitHub\\Individueel\\Circus Trein\\Circus Trein\\Circus Trein.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\habib\\source\\repos\\Circus Trein\\Circus Trein\\Circus Trein.csproj",
+        "projectUniqueName": "C:\\Users\\habib\\Documents\\GitHub\\Individueel\\Circus Trein\\Circus Trein\\Circus Trein.csproj",
         "projectName": "Circus Trein",
-        "projectPath": "C:\\Users\\habib\\source\\repos\\Circus Trein\\Circus Trein\\Circus Trein.csproj",
+        "projectPath": "C:\\Users\\habib\\Documents\\GitHub\\Individueel\\Circus Trein\\Circus Trein\\Circus Trein.csproj",
         "packagesPath": "C:\\Users\\habib\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\habib\\source\\repos\\Circus Trein\\Circus Trein\\obj\\",
+        "outputPath": "C:\\Users\\habib\\Documents\\GitHub\\Individueel\\Circus Trein\\Circus Trein\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\habib\\AppData\\Roaming\\NuGet\\NuGet.Config",

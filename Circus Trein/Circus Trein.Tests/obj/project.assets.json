@@ -1018,11 +1018,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\habib\\source\\repos\\Circus Trein\\Circus Trein.Tests\\Circus Trein.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\habib\\Documents\\GitHub\\Individueel\\Circus Trein\\Circus Trein.Tests\\Circus Trein.Tests.csproj",
       "projectName": "Circus Trein.Tests",
-      "projectPath": "C:\\Users\\habib\\source\\repos\\Circus Trein\\Circus Trein.Tests\\Circus Trein.Tests.csproj",
+      "projectPath": "C:\\Users\\habib\\Documents\\GitHub\\Individueel\\Circus Trein\\Circus Trein.Tests\\Circus Trein.Tests.csproj",
       "packagesPath": "C:\\Users\\habib\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\habib\\source\\repos\\Circus Trein\\Circus Trein.Tests\\obj\\",
+      "outputPath": "C:\\Users\\habib\\Documents\\GitHub\\Individueel\\Circus Trein\\Circus Trein.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\habib\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1039,8 +1039,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\habib\\source\\repos\\Circus Trein\\Circus Trein\\Circus Trein.csproj": {
-              "projectPath": "C:\\Users\\habib\\source\\repos\\Circus Trein\\Circus Trein\\Circus Trein.csproj"
+            "C:\\Users\\habib\\Documents\\GitHub\\Individueel\\Circus Trein\\Circus Trein\\Circus Trein.csproj": {
+              "projectPath": "C:\\Users\\habib\\Documents\\GitHub\\Individueel\\Circus Trein\\Circus Trein\\Circus Trein.csproj"
             }
           }
         }
